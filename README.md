@@ -15,7 +15,5 @@ Installation
 
 * With [Vundle](https://github.com/gmarik/vundle)
 
-```
-" .vimrc
-Bundle 'belltoy/vim-protobuf'
-```
+        " .vimrc
+        Bundle 'belltoy/vim-protobuf'
